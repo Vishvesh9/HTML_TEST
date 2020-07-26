@@ -1,8 +1,14 @@
 .logo {
-    height: 5%;
-    width: 5%;
+    height: 50px;
+    width: 50px;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
+    overflow-x: ;
+}
+
+.wall {
+    height: 360px;
+    width: 360px;
 }
